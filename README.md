@@ -2,7 +2,8 @@
 
 I’m currently working on my personal projects, and you can check [my repositories tab](https://github.com/whywidodo?tab=repositories).
 
-![Wahyu Widodo's GitHub stats](https://github-readme-stats.vercel.app/api/?username=whywidodo&theme=gotham&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=whywidodo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=whywidodo&theme=radical)
 
 **Support me on :**
 
